@@ -40,5 +40,7 @@ void loop(){
     else { //'if the circuit is NOT closed then'
       Serial.println("kliko is open");
       delay(500);
+    }
 } 
 ```
+
